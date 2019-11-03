@@ -146,6 +146,7 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 * [The Netflix Tech Blog](http://techblog.netflix.com/)
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
 * [Twitter Engineering](https://engineering.twitter.com/)
+* [Uber Engineering Blog](https://eng.uber.com/presto-foundation/)
 * [WebEngage Engineering Blog](http://engineering.webengage.com/)
 * [Yammer Engineering](http://eng.yammer.com/blog/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
